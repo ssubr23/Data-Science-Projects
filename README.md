@@ -1,7 +1,7 @@
 # Data Science projects
 
 Welcome to my GitHub repo! This repo showcases some data science projects I have undertaken to highlight my Python, data science and machine learning skills. Included projects are:
-- Human Resources Department: Use Logistic regression, Random Forest Classifiers and ANN to predict Attrition in a company.
+- Human Resources Department
 - Marketing Department
 - Sales Department
 - Operations Department
@@ -40,6 +40,7 @@ The following python packages, pip install -r requirements.txt
 - NumPy - Numerical computing
 - Matplotlib and Seaborn - Visualization
 - Tensorflow - ANNs and Machine Learning
+- Scikit learn
 
 
 
