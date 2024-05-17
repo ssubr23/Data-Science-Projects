@@ -1,0 +1,32 @@
+Purpose:
+For companies to become competitive and skyrocket their growth, they need to leverage AI/ML to develop predictive models to forecast sales in the future.
+Predictive models attempt at forecasting future sales based on historical data while taking into account seasonality effects, demand, holidays, promotions, and competition.
+In this project, you work as a data scientist in the sales department and the sales team provided you with data from 1115 stores.
+The objective is to predict future daily sales based on the features.
+
+Data Science concepts:
+
+Data Loading
+Reading Data: Loading datasets into pandas DataFrames allows for easy manipulation and analysis. Common formats include CSV files.
+Data Exploration
+Head and Tail: Viewing the first and last few rows of the dataset helps understand its structure and identify potential issues.
+Info and Describe: info() provides a concise summary of the DataFrame including data types and non-null counts, while describe() gives descriptive statistics for numerical columns.
+Data Cleaning
+Handling Missing Values: Identifying and dealing with missing data is crucial. This can involve filling missing values with mean/median values, zeros, or dropping rows/columns with missing data.
+Feature Extraction: Adding new features based on existing data, such as extracting year, month, and day from a date column, can provide additional insights for analysis and modeling.
+Data Visualization
+Histograms: Useful for understanding the distribution of numerical features.
+Heatmaps: Visual representation of missing data or correlations between variables.
+Line Plots and Bar Plots: Visualizing trends and patterns over time or across categories, such as average sales per month or customer count variations.
+Data Merging
+Combining DataFrames: Merging datasets based on a common key (e.g., Store ID) to create a comprehensive dataset that includes all relevant information.
+Correlation Analysis
+Correlation Matrix: Identifying relationships between variables helps in understanding which features are most influential in predicting the target variable.
+Time Series Analysis
+Prophet Model: A time series forecasting tool used to predict future values based on historical data. It can handle seasonality, holidays, and trends.
+Holiday Effects: Incorporating holidays into the model can improve forecast accuracy by accounting for variations in sales due to holidays.
+Feature Engineering
+Creating New Features: Adding new columns derived from existing data, such as the day of the week or month, which can capture seasonal effects and trends.
+Model Evaluation
+Visualizing Predictions: Plotting the predicted values against actual values helps assess the model's performance.
+Model Components: Analyzing the components of the forecast (trend, seasonality, holiday effects) provides insights into how the model makes predictions.
