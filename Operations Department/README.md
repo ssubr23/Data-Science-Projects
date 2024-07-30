@@ -22,3 +22,7 @@ The project includes the following key results:
 - Chest X-ray disease detection and classification model.
 - Analysis of model performance and evaluation metrics.
 - Insights into the effectiveness of deep learning in medical imagery.
+
+## Data Source
+- https://github.com/ieee8023/covid-chestxray-dataset 
+- https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
