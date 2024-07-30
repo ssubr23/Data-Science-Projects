@@ -8,11 +8,6 @@ Welcome to my GitHub repo! This repo showcases some data science projects I have
 - Public Department
 - Production and Manufacturing Department
 
-## Getting Started
-
-- Dataset link: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
-- Jupyter Notebook
-
 ### Prerequisites
 The following python packages, pip install -r requirements.txt
 
